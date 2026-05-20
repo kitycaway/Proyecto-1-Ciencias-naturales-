@@ -1,5 +1,4 @@
 # Proyecto-1-Ciencias-naturales-
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
